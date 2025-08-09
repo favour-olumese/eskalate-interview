@@ -1,0 +1,10 @@
+# requirements.txt
+django
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
+cloudinary
+django-filter
+drf-spectacular # For Swagger/OpenAPI docs
+gunicorn # For deployment
+psycopg2-binary
